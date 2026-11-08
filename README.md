@@ -32,7 +32,7 @@ Without the hooks the theme still works; windows just keep your default corners.
 
 | File | What it does |
 | --- | --- |
-| `colors.toml` | The palette. Omarchy builds the terminal, btop, Neovim, VS Code, bar and the rest from it. Accent `#006de6`, light mode. |
+| `colors.toml` | The palette. Omarchy builds the terminal, btop, Neovim, VS Code, bar and the rest from it. Accent `#0067df`, light mode. |
 | `icons.theme` | Icon theme: `Yaru-blue`. |
 | `shape.toml` | Corners: 16 px, rounding power 4. |
 | `hyprland.lua` | The same border and corners, for when you copy the folder by hand. |
